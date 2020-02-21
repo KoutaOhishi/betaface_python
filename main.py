@@ -6,6 +6,9 @@ import xml.etree.ElementTree as ET
 import xmltodict
 import json
 
+# https://www.betafaceapi.com/wpa/index.php/documentation
+# https://mgng.mugbum.info/679
+
 API_KEY = "d45fd466-51e2-4701-8da8-04351c872236"
 API_SECRET = "171e8465-f548-401d-b63b-caf0dc28df5f"
 
