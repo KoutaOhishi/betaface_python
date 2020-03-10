@@ -66,7 +66,7 @@ def get_img_info(img_uid):
 
 
 def main():
-    image_file_path = "/home/rg26/Desktop/betaface_module/face.jpg"
+    image_file_path = "/path/to/image_file"
     img_uid = get_img_uid(image_file_path)
     img_info = get_img_info(img_uid)
 
